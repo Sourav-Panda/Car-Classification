@@ -6,7 +6,7 @@ Objective of this project was to train a nural network model ussing transfer lea
 Python libraries:
 1. Numpy
 2. pandas
-3. tensorflow
+3. tensorflow version 1.12.0
 4. keras
 5. flask
 
