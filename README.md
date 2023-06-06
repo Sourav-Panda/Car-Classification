@@ -21,8 +21,10 @@ Reduce the size of the model ussing various optimisation techniques and build a 
 # Note:
 As per the current stting the app runs in the port 8080 so if you deploying it in the aws you will have to use ssh tunning to access the portal.
 # Model Architecture
+
+
 __________________________________________________________________________________________________
- Layer (type)                   Output Shape         Param #     Connected to                     
+ Layer                                   Output Shape            Param      Connected to                     
 ==================================================================================================
  input_2 (InputLayer)           [(None, 224, 224, 3  0           []                               
                                 )]                                                                
